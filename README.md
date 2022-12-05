@@ -1,4 +1,4 @@
-# dani_uts
+# Color Mixer
 
 A new Flutter project.
 
